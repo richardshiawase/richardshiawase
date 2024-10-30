@@ -1,4 +1,4 @@
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-richardshiawase-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/richardshiawase/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/richardshiawase/)
 
 
 ## 🚀 Projects
