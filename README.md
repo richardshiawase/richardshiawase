@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ## 📈 My Competitive Programming Profiles
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-richardshiawase-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-richardshiawase-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/richardshiawase/)
 
 
 ## 🚀 Projects
