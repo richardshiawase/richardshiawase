@@ -14,6 +14,12 @@ Welcome to my GitHub profile! Here’s a little about me:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ... (Add more badges for each technology or tool you use)
 
+## 📈 My Competitive Programming Profiles
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your_leetcode_username)](https://leetcode.com/your_leetcode_username)
+
+
 ## 🚀 Projects
 - [Project 1 Name](https://github.com/username/project1) — Short project description.
 - [Project 2 Name](https://github.com/username/project2) — Short project description.
