@@ -1,21 +1,3 @@
-# Hi there! 👋 I'm [Your Name]
-
-Welcome to my GitHub profile! Here’s a little about me:
-
-## 👨‍💻 About Me
-- 🎓 I’m currently learning **[Your field or technology]**.
-- 🌱 Passionate about building projects that solve real-world problems.
-- 💬 Ask me about **[Topics you're familiar with]**.
-- 📫 Reach me at: [Your email](mailto:your-email@example.com)
-
-## 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-... (Add more badges for each technology or tool you use)
-
-## 📈 My Competitive Programming Profiles
-
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-richardshiawase-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/richardshiawase/)
 
 
