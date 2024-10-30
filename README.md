@@ -1,7 +1,4 @@
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/richardshiawase/) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/richardshiawase)
-
-## 🌐 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-richardshiawase-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/richardshiawase/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/richardshiawase/) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/richardshiawase) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-richardshiawase-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/richardshiawase/)
 
 
 ## 📊 GitHub Stats
